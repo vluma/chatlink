@@ -19,7 +19,7 @@ class _AIModelListScreenState extends State<AIModelListScreen> {
   String? _testingModelId;
   
   // 测试结果
-  Map<String, String> _testResults = {};
+  final Map<String, String> _testResults = {};
 
   @override
   void initState() {

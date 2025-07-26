@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:chatlink/shared/utils/platform.dart';
 
 /// 应用主题配置
 class AppTheme {

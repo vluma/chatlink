@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:go_router/go_router.dart';
 
 import '../../ai_chat/ui/ai_chat_screen.dart';
 import '../../knowledge_base/ui/knowledge_base_screen.dart';

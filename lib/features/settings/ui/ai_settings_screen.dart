@@ -6,8 +6,6 @@ import 'dart:math';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import '../../../integrations/ai_models/ai_model_manager.dart';
-import '../../../integrations/ai_models/ai_service_factory.dart';
-import '../../../integrations/ai_models/ollama_service.dart';
 import 'ai_model_list_screen.dart';
 import '../../../shared/utils/toast_utils.dart';
 import '../../ai_chat/data/repositories/session_repository.dart';
